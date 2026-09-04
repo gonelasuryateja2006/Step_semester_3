@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/ASSIGNMENT PROBLEMS">
+      <sourceFolder url="file://$MODULE_DIR$/ASSIGNMENT PROBLEMS" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/PRACTICE PROBLEM" />
+    <orderEntry type="jdk" jdkName="26 (2)" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
