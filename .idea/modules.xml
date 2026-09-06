@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SESSION_2/SESSION_2.iml" filepath="$PROJECT_DIR$/SESSION_2/SESSION_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SESSION_3/SESSION_3.iml" filepath="$PROJECT_DIR$/SESSION_3/SESSION_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session_1/session_1.iml" filepath="$PROJECT_DIR$/session_1/session_1.iml" />
+    </modules>
+  </component>
+</project>
